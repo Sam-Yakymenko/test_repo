@@ -1,5 +1,7 @@
 num = int(input('Enter a number: '))
 
+print('hello world')
+
 def shag(num):
     iteration = 0
     for i in range(num, 0, -2):
