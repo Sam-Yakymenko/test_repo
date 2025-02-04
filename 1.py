@@ -1,8 +1,7 @@
 num = int(input('Enter a number: '))
 
-iteration = 0
-
 def shag(num):
+    iteration = 0
     for i in range(num, 0, -2):
         iteration+=1
         if 0 < num < 100:
