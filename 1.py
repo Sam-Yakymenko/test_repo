@@ -1,6 +1,6 @@
 num = int(input('Enter a number: '))
 
-print('hello world')
+print('hello linux')
 
 def shag(num):
     iteration = 0
